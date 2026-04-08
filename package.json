@@ -1,0 +1,17 @@
+{
+  "name": "community-demo",
+  "version": "1.0.0",
+  "description": "Demo visual de plataforma de comunidades tipo Skool",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "preview": "npx serve ."
+  },
+  "keywords": ["community", "skool", "demo"],
+  "author": "IdeaForge",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
